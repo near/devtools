@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 ![DevTools](./assets/devtools.svg)
 
@@ -6,6 +6,6 @@
 
 # [📝](https://github.com/near/devtools/issues/new/choose)
 
-</center>
+</p>
 
 > Developing and maintaining NEAR's core developer tooling.
